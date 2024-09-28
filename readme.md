@@ -26,6 +26,6 @@ MDF plaat met leds: 3 identieke platen van 663 x 1188.
 
 ![panelen](panelen.png)
 
-LEDS hebben een hartafstand van 110 mm, rondom de kader hanteren we een marge van ~60mm, afhankelijk van hoe dat uitkomt:
+LEDS hebben een hartafstand van 100 mm, rondom de kader hanteren we een marge van ~60mm, afhankelijk van hoe dat uitkomt:
 
 ![leds](leds.png)
