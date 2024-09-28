@@ -14,6 +14,8 @@ Binnenmaat display 1990 x 1190 mm
 
 Maat diffuser: 2000 x 1200 mm. Hierop is de buitenmaat van de bak gebaseerd. Diffuser wordt 5mm ingefreesd in het kader.
 
+Mogelijke diffuser: https://shop.pyrasied.nl/product/greencast-opaal-acrylaat/
+
 - Rug: 1898 x 1188
 
 ![image-20240923190154174](opbouw.png)
