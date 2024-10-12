@@ -29,3 +29,9 @@ MDF plaat met leds: 3 identieke platen van 663 x 1188.
 LEDS hebben een hartafstand van 100 mm, rondom de kader hanteren we een marge van ~60mm, afhankelijk van hoe dat uitkomt:
 
 ![leds](leds.png)
+
+## Elektronica
+
+Plan is om de ESP en dus ook de stroomvoorziening binnen in het Fablab te hangen, en enkel de bekabeling voor de LEDs naar buiten te trekken.
+
+We voorzien ~60mA stroomverbruik per LED, dus aan 198 LEDs komt dat op 60W in totaal. Hiervoor kunnen we een PC voeding gebruiken.
