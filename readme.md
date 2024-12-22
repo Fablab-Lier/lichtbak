@@ -1,32 +1,26 @@
 # Lichtbak
 
-Ca. 2000 x 1200 mm
+De *binnen*afmetingen van de bak zijn 1997 (b) x 955 (h) mm.
 
-3 platen van 6 LEDs in de breedte X 11 LEDs in de hoogte. Dus 66 per plaat, in totaal 198.
+Gaten LEDs moeten ca. 12mm groot zijn om ze goed te kunnen klemmen.
 
-Hartafstand tussen LEDs 100mm, zijkanten kader minstens 50.
+Houten buitenkader te maken van Douglas planken.
 
-Gaten LEDs wss ca. 12mm om ze goed te kunnen klemmen.
+Diffuser bestaat uit een kanaalplaat en vormt de basis van de afmetingen van de lichtbak.  
+Diffuser wordt 5mm ingefreesd in het kader.
 
-Houten buitenkader te maken van Douglas planken (Kurt)
+![opbouw](opbouw.png)
 
-Binnenmaat display 1990 x 1190 mm
-
-Maat diffuser: 2000 x 1200 mm. Hierop is de buitenmaat van de bak gebaseerd. Diffuser wordt 5mm ingefreesd in het kader.
-
-Mogelijke diffuser: https://shop.pyrasied.nl/product/greencast-opaal-acrylaat/
-
-- Rug: 1898 x 1188
-
-![image-20240923190154174](opbouw.png)
-
-
-
-MDF plaat met leds: 3 identieke platen van 663 x 1188.
+MDF plaat met leds: 3 platen, de buitenste smaller dan de middenste. Hartafstand tussen de LEDs is 100mm. Rondom zijn kleine 'voorgeboorde' gaten voor het bevestigen met schroeven.
 
 ![panelen](panelen.png)
 
-LEDS hebben een hartafstand van 100 mm, rondom de kader hanteren we een marge van ~60mm, afhankelijk van hoe dat uitkomt:
+* 2 platen van 647 x 953 mm, 6 LEDs breed en 9 LEDs hoog
+* 1 plaat van 701 x 953 mm, 7 LEDs breed en 9 LEDs hoog
+
+Er zijn dus in totaal 171 LEDs voorzien, en rondom is er 1 mm marge tussen de platen voor de LEDs en de wanden van de bak.
+
+LEDS hebben een hartafstand van 100 mm:
 
 ![leds](leds.png)
 
